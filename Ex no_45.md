@@ -4,12 +4,15 @@
 To write a C program that implements a queue using an array, and performs insertion (enqueue) and display operations. 
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
+```
+Start.
+Define a variables.
+Write a functions to perform push,pop,display,peek in stack using array.
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End.
+```
 ## Program:
 ```
 /*
