@@ -4,12 +4,15 @@
 To write a function to find the peek of stack using array.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
+```
+Start.
+Define a variables.
+Write a function to search an element in the double linked list..
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End
+```
 ## Program:
 ```
 /*
