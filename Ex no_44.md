@@ -4,12 +4,15 @@
 To write a C Write a functions to perform enqueue, dequeue, display, peek in Queue using Array.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
+```
+Start.
+Define a variables.
+Write a functions to perform push,pop,display,peek in stack using array.
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End.
+```
 ## Program:
 ```
 /*
